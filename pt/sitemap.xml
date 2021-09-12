@@ -26,8 +26,7 @@
     <loc>/docs/tasks/porridge/</loc>
     <lastmod>2021-09-11T00:55:23-03:00</lastmod>
   </url><url>
-    <loc>/docs/concepts/</loc>
-    <lastmod>2021-09-11T00:55:23-03:00</lastmod>
+    <loc>/docs/proleg%C3%B4menos/</loc>
   </url><url>
     <loc>/docs/tasks/task/</loc>
     <lastmod>2021-09-11T00:55:23-03:00</lastmod>
@@ -132,11 +131,45 @@
                 href="/blog/"
                 />
   </url><url>
+    <loc>/categorias/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/categorias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="/no/categorias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/categorias/"
+                />
+  </url><url>
     <loc>/comunidade/</loc>
     <lastmod>2021-09-11T00:58:30-03:00</lastmod>
   </url><url>
+    <loc>/false/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/false/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="/no/false/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/false/"
+                />
+  </url><url>
     <loc>/</loc>
-    <lastmod>2021-09-11T00:55:23-03:00</lastmod>
+    <lastmod>2021-09-11T22:08:34-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -173,5 +206,56 @@
   </url><url>
     <loc>/sobre/</loc>
     <lastmod>2021-09-11T00:58:30-03:00</lastmod>
+  </url><url>
+    <loc>/tango/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/tango/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="/no/tango/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tango/"
+                />
+  </url><url>
+    <loc>/true/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="/no/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/true/"
+                />
+  </url><url>
+    <loc>/t%C3%B3picos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/t%C3%B3picos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="/no/t%C3%B3picos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/t%C3%B3picos/"
+                />
   </url>
 </urlset>

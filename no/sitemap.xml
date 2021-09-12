@@ -191,6 +191,40 @@
     <loc>/no/docs/big-data/the-math-of-monographs-how-does-it-work/</loc>
     <lastmod>2021-09-10T23:26:47-03:00</lastmod>
   </url><url>
+    <loc>/no/categorias/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/categorias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/categorias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="/no/categorias/"
+                />
+  </url><url>
+    <loc>/no/false/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/false/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/false/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="/no/false/"
+                />
+  </url><url>
     <loc>/no/search/</loc>
     <lastmod>2021-09-10T23:26:47-03:00</lastmod>
     <xhtml:link
@@ -209,6 +243,23 @@
                 href="/no/search/"
                 />
   </url><url>
+    <loc>/no/tango/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tango/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/tango/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="/no/tango/"
+                />
+  </url><url>
     <loc>/no/</loc>
     <lastmod>2021-09-10T23:26:47-03:00</lastmod>
     <xhtml:link
@@ -225,6 +276,40 @@
                 rel="alternate"
                 hreflang="no"
                 href="/no/"
+                />
+  </url><url>
+    <loc>/no/true/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/true/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="/no/true/"
+                />
+  </url><url>
+    <loc>/no/t%C3%B3picos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/t%C3%B3picos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/t%C3%B3picos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="/no/t%C3%B3picos/"
                 />
   </url>
 </urlset>
