@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Bed and Chair Metrics</title>
-      <link>/docs/tasks/beds/</link>
+      <link>/docs/fundamentos/beds/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/beds/</guid>
+      <guid>/docs/fundamentos/beds/</guid>
       <description>
         
         
@@ -328,10 +328,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Docs: Configuring Ponycopters</title>
-      <link>/docs/tasks/ponycopters/configuring-ponycopters/</link>
+      <link>/docs/fundamentos/ponycopters/configuring-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/ponycopters/configuring-ponycopters/</guid>
+      <guid>/docs/fundamentos/ponycopters/configuring-ponycopters/</guid>
       <description>
         
         
@@ -641,10 +641,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Docs: Launching Ponycopters</title>
-      <link>/docs/tasks/ponycopters/launching-ponycopters/</link>
+      <link>/docs/fundamentos/ponycopters/launching-ponycopters/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/ponycopters/launching-ponycopters/</guid>
+      <guid>/docs/fundamentos/ponycopters/launching-ponycopters/</guid>
       <description>
         
         
@@ -1267,10 +1267,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Docs: Porridge Assessment</title>
-      <link>/docs/tasks/porridge/</link>
+      <link>/docs/fundamentos/porridge/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/porridge/</guid>
+      <guid>/docs/fundamentos/porridge/</guid>
       <description>
         
         
@@ -1580,10 +1580,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Docs: Another Task</title>
-      <link>/docs/tasks/task/</link>
+      <link>/docs/fundamentos/task/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/docs/tasks/task/</guid>
+      <guid>/docs/fundamentos/task/</guid>
       <description>
         
         

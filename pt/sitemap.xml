@@ -5,11 +5,11 @@
     <loc>/docs/overview/</loc>
     <lastmod>2021-09-11T00:55:23-03:00</lastmod>
   </url><url>
-    <loc>/docs/tasks/beds/</loc>
-    <lastmod>2021-09-11T00:55:23-03:00</lastmod>
+    <loc>/docs/fundamentos/beds/</loc>
+    <lastmod>2021-09-11T23:50:56-03:00</lastmod>
   </url><url>
-    <loc>/docs/tasks/ponycopters/configuring-ponycopters/</loc>
-    <lastmod>2021-09-11T00:55:23-03:00</lastmod>
+    <loc>/docs/fundamentos/ponycopters/configuring-ponycopters/</loc>
+    <lastmod>2021-09-11T23:50:56-03:00</lastmod>
   </url><url>
     <loc>/docs/getting-started/</loc>
     <lastmod>2021-09-11T00:55:23-03:00</lastmod>
@@ -17,25 +17,23 @@
     <loc>/docs/examples/</loc>
     <lastmod>2021-09-11T00:55:23-03:00</lastmod>
   </url><url>
-    <loc>/docs/tasks/ponycopters/launching-ponycopters/</loc>
-    <lastmod>2021-09-11T00:55:23-03:00</lastmod>
+    <loc>/docs/fundamentos/ponycopters/launching-ponycopters/</loc>
+    <lastmod>2021-09-11T23:50:56-03:00</lastmod>
   </url><url>
     <loc>/docs/tutorials/multi-bear/</loc>
     <lastmod>2021-09-11T00:55:23-03:00</lastmod>
   </url><url>
-    <loc>/docs/tasks/porridge/</loc>
-    <lastmod>2021-09-11T00:55:23-03:00</lastmod>
+    <loc>/docs/fundamentos/porridge/</loc>
+    <lastmod>2021-09-11T23:50:56-03:00</lastmod>
   </url><url>
-    <loc>/docs/proleg%C3%B4menos/</loc>
-  </url><url>
-    <loc>/docs/tasks/task/</loc>
-    <lastmod>2021-09-11T00:55:23-03:00</lastmod>
+    <loc>/docs/fundamentos/task/</loc>
+    <lastmod>2021-09-11T23:50:56-03:00</lastmod>
   </url><url>
     <loc>/docs/tutorials/tutorial2/</loc>
     <lastmod>2021-09-11T00:55:23-03:00</lastmod>
   </url><url>
-    <loc>/docs/tasks/</loc>
-    <lastmod>2021-09-11T00:55:23-03:00</lastmod>
+    <loc>/docs/fundamentos/</loc>
+    <lastmod>2021-09-12T00:24:05-03:00</lastmod>
   </url><url>
     <loc>/docs/tutorials/</loc>
     <lastmod>2021-09-11T00:55:23-03:00</lastmod>
@@ -115,8 +113,8 @@
     <loc>/docs/reference/parameter-reference/</loc>
     <lastmod>2021-09-11T00:55:23-03:00</lastmod>
   </url><url>
-    <loc>/docs/tasks/ponycopters/</loc>
-    <lastmod>2021-09-11T00:55:23-03:00</lastmod>
+    <loc>/docs/fundamentos/ponycopters/</loc>
+    <lastmod>2021-09-11T23:50:56-03:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
     <lastmod>2021-09-11T00:55:23-03:00</lastmod>
@@ -168,26 +166,8 @@
                 href="/false/"
                 />
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-09-11T22:08:34-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="/no/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="/fa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/"
-                />
-  </url><url>
     <loc>/search/</loc>
-    <lastmod>2021-09-11T00:55:23-03:00</lastmod>
+    <lastmod>2021-09-13T02:34:21-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -206,6 +186,24 @@
   </url><url>
     <loc>/sobre/</loc>
     <lastmod>2021-09-11T00:58:30-03:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-09-13T02:34:21-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="/no/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="/fa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/"
+                />
   </url><url>
     <loc>/tango/</loc>
     <xhtml:link
