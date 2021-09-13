@@ -88,23 +88,23 @@
                 href="/blog/releases/"
                 />
   </url><url>
-    <loc>/blog/2018/10/06/easy-documentation-with-docsy/</loc>
+    <loc>/blog/06/10/2018/easy-documentation-with-docsy/</loc>
     <lastmod>2021-09-11T00:55:23-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/blog/2018/10/06/%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D8%AA-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B3%DB%8C/"
+                href="/fa/blog/06/10/2018/%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D8%AA-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B3%DB%8C/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/blog/2018/10/06/easy-documentation-with-docsy/"
+                href="/blog/06/10/2018/easy-documentation-with-docsy/"
                 />
   </url><url>
-    <loc>/blog/2018/10/06/the-second-blog-post/</loc>
+    <loc>/blog/06/10/2018/the-second-blog-post/</loc>
     <lastmod>2021-09-11T00:55:23-03:00</lastmod>
   </url><url>
-    <loc>/blog/2018/01/04/another-great-release/</loc>
+    <loc>/blog/04/01/2018/another-great-release/</loc>
     <lastmod>2021-09-11T00:55:23-03:00</lastmod>
   </url><url>
     <loc>/docs/getting-started/example-page/</loc>
@@ -188,7 +188,7 @@
     <lastmod>2021-09-11T00:58:30-03:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-09-13T02:34:21-03:00</lastmod>
+    <lastmod>2021-09-13T14:55:50-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
