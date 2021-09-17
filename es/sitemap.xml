@@ -79,57 +79,6 @@
                 href="/es/categorias/"
                 />
   </url><url>
-    <loc>/es/false/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/false/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/false/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/false/"
-                />
-  </url><url>
-    <loc>/es/tango/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/tango/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tango/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tango/"
-                />
-  </url><url>
-    <loc>/es/true/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/true/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/true/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/true/"
-                />
-  </url><url>
     <loc>/es/t%C3%B3picos/</loc>
     <xhtml:link
                 rel="alternate"

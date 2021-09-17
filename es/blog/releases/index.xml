@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Español – نسخه های منتشر شده</title>
+    <title>SocioAtlas – نسخه های منتشر شده</title>
     <link>/es/blog/releases/</link>
-    <description>Recent content in نسخه های منتشر شده on Español</description>
+    <description>Recent content in نسخه های منتشر شده on SocioAtlas</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	  <atom:link href="/es/blog/releases/index.xml" rel="self" type="application/rss+xml" />

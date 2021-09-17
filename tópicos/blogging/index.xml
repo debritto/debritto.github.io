@@ -1,0 +1,39 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SocioAtlas – Blogging</title>
+    <link>/t%C3%B3picos/blogging/</link>
+    <description>Recent content in Blogging on SocioAtlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/t%C3%B3picos/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Fundamentos</title>
+      <link>/docs/fundamentos/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/fundamentos/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Nesta seção você encontrará estudos sobre a fundamentação filosófica que embasa o &lt;strong&gt;Método Sistêmico Multimodal&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Think about your project’s features and use cases. Use these to choose your core tasks. Each granular use case (enable x, configure y) should have a corresponding tasks page or tasks page section. Users should be able to quickly refer to your core tasks when they need to find out how to do one specific thing, rather than having to look for the instructions in a bigger tutorial or example. Think of your tasks pages as a cookbook with different procedures your users can combine to create something more substantial.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

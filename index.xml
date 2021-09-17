@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SocioAtlas – SOcioAtlas</title>
+    <title>SocioAtlas – SocioAtlas</title>
     <link>/</link>
-    <description>Recent content in SOcioAtlas on SocioAtlas</description>
+    <description>Recent content on SocioAtlas</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	  <atom:link href="/index.xml" rel="self" type="application/rss+xml" />

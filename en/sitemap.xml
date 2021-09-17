@@ -208,23 +208,6 @@
                 href="/en/categorias/"
                 />
   </url><url>
-    <loc>/en/false/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/false/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/false/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/false/"
-                />
-  </url><url>
     <loc>/en/search/</loc>
     <lastmod>2021-09-13T16:30:53-03:00</lastmod>
     <xhtml:link
@@ -243,23 +226,6 @@
                 href="/en/search/"
                 />
   </url><url>
-    <loc>/en/tango/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/tango/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/tango/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tango/"
-                />
-  </url><url>
     <loc>/en/</loc>
     <lastmod>2021-09-13T16:30:53-03:00</lastmod>
     <xhtml:link
@@ -276,23 +242,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/"
-                />
-  </url><url>
-    <loc>/en/true/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/true/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/true/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/true/"
                 />
   </url><url>
     <loc>/en/t%C3%B3picos/</loc>
