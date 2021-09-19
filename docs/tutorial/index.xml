@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SocioAtlas – Tutorial</title>
+    <link>/docs/tutorial/</link>
+    <description>Recent content in Tutorial on SocioAtlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 17 Sep 2021 18:56:16 +0000</lastBuildDate>
+    
+	  <atom:link href="/docs/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Como começar</title>
+      <link>/docs/tutorial/metodo/</link>
+      <pubDate>Fri, 17 Sep 2021 18:56:16 +0000</pubDate>
+      
+      <guid>/docs/tutorial/metodo/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
