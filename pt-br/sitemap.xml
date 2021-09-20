@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/docs/tutorial/</loc>
-    <lastmod>2021-09-18T01:22:58-03:00</lastmod>
+    <lastmod>2021-09-20T00:30:32-03:00</lastmod>
   </url><url>
     <loc>/docs/fundamentos/</loc>
     <lastmod>2021-09-18T01:22:58-03:00</lastmod>
   </url><url>
     <loc>/docs/aplicacoes/</loc>
-    <lastmod>2021-09-18T01:22:58-03:00</lastmod>
+    <lastmod>2021-09-20T00:30:32-03:00</lastmod>
   </url><url>
     <loc>/docs/casos/</loc>
-    <lastmod>2021-09-18T01:22:58-03:00</lastmod>
+    <lastmod>2021-09-20T00:30:32-03:00</lastmod>
   </url><url>
     <loc>/docs/autores/</loc>
-    <lastmod>2021-09-18T01:22:58-03:00</lastmod>
+    <lastmod>2021-09-20T00:30:32-03:00</lastmod>
   </url><url>
     <loc>/docs/softwares/</loc>
     <lastmod>2021-09-18T01:22:58-03:00</lastmod>
   </url><url>
     <loc>/docs/perguntas/</loc>
-    <lastmod>2021-09-18T01:22:58-03:00</lastmod>
+    <lastmod>2021-09-20T00:30:32-03:00</lastmod>
   </url><url>
     <loc>/docs/glossario/</loc>
-    <lastmod>2021-09-18T01:22:58-03:00</lastmod>
+    <lastmod>2021-09-20T00:30:32-03:00</lastmod>
   </url><url>
     <loc>/docs/</loc>
     <lastmod>2021-09-14T14:36:30-03:00</lastmod>
@@ -70,56 +70,11 @@
                 href="/blog/releases/"
                 />
   </url><url>
-    <loc>/contribuicao/</loc>
-    <lastmod>2021-09-18T21:30:42-03:00</lastmod>
-  </url><url>
-    <loc>/docs/casos/imigrantes/</loc>
-    <lastmod>2021-09-18T01:22:58-03:00</lastmod>
-  </url><url>
-    <loc>/docs/casos/pontal_ii/</loc>
-    <lastmod>2021-09-17T16:01:09-03:00</lastmod>
-  </url><url>
-    <loc>/docs/casos/pontal_i/</loc>
-    <lastmod>2021-09-17T16:01:09-03:00</lastmod>
-  </url><url>
-    <loc>/docs/tutorial/metodo/</loc>
-    <lastmod>2021-09-17T16:01:09-03:00</lastmod>
-  </url><url>
-    <loc>/docs/fundamentos/shalom/</loc>
-    <lastmod>2021-09-17T15:56:54-03:00</lastmod>
-  </url><url>
-    <loc>/docs/aplicacoes/migracoes/</loc>
-    <lastmod>2021-09-18T01:22:58-03:00</lastmod>
-  </url><url>
-    <loc>/docs/aplicacoes/ambiente/dsap/</loc>
-    <lastmod>2021-09-17T15:56:54-03:00</lastmod>
-  </url><url>
-    <loc>/docs/aplicacoes/ambiente/base_ambiental/</loc>
-    <lastmod>2021-09-17T15:56:54-03:00</lastmod>
-  </url><url>
-    <loc>/docs/aplicacoes/ambiente/sustentabilidade/</loc>
-    <lastmod>2021-09-18T01:22:58-03:00</lastmod>
-  </url><url>
-    <loc>/docs/aplicacoes/ambiente/</loc>
-    <lastmod>2021-09-17T15:56:54-03:00</lastmod>
-  </url><url>
-    <loc>/docs/autores/deraadt/</loc>
-    <lastmod>2021-09-17T15:56:54-03:00</lastmod>
-  </url><url>
-    <loc>/docs/autores/casiello/</loc>
-    <lastmod>2021-09-17T15:56:54-03:00</lastmod>
-  </url><url>
-    <loc>/docs/autores/vollenhoven/</loc>
-    <lastmod>2021-09-17T15:56:54-03:00</lastmod>
-  </url><url>
-    <loc>/docs/softwares/zotero/</loc>
-    <lastmod>2021-09-17T15:37:41-03:00</lastmod>
-  </url><url>
     <loc>/docs/fundamentos/pensamento-sistemico-multimodal/</loc>
     <lastmod>2021-09-18T21:30:42-03:00</lastmod>
   </url><url>
     <loc>/docs/autores/herman-dooyeweerd/</loc>
-    <lastmod>2021-09-17T15:56:54-03:00</lastmod>
+    <lastmod>2021-09-20T00:30:32-03:00</lastmod>
   </url><url>
     <loc>/blog/06/10/2018/easy-documentation-with-docsy/</loc>
     <lastmod>2021-09-14T14:36:30-03:00</lastmod>
@@ -225,11 +180,8 @@
                 href="/search/"
                 />
   </url><url>
-    <loc>/sobre/</loc>
-    <lastmod>2021-09-15T20:11:57-03:00</lastmod>
-  </url><url>
     <loc>/</loc>
-    <lastmod>2021-09-19T14:55:31-03:00</lastmod>
+    <lastmod>2021-09-20T00:30:32-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
