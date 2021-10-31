@@ -191,23 +191,6 @@
     <loc>/en/docs/big-data/the-math-of-monographs-how-does-it-work/</loc>
     <lastmod>2021-09-22T01:21:17-03:00</lastmod>
   </url><url>
-    <loc>/en/categorias/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/categorias/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categorias/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categorias/"
-                />
-  </url><url>
     <loc>/en/search/</loc>
     <lastmod>2021-09-22T01:21:17-03:00</lastmod>
     <xhtml:link
@@ -242,23 +225,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/"
-                />
-  </url><url>
-    <loc>/en/t%C3%B3picos/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/t%C3%B3picos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/t%C3%B3picos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/t%C3%B3picos/"
                 />
   </url>
 </urlset>

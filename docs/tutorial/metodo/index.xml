@@ -15,6 +15,137 @@
     
     
     <item>
+      <title>Docs: Guia rápido</title>
+      <link>/docs/tutorial/metodo/guia-rapido/</link>
+      <pubDate>Sun, 31 Oct 2021 11:37:32 -0300</pubDate>
+      
+      <guid>/docs/tutorial/metodo/guia-rapido/</guid>
+      <description>
+        
+        
+        &lt;p&gt;O SocioAtlas é um programa de computador que viabiliza análises de dados de acordo com o Método Sistêmico Multimodal. Para que possa ser utilizado por qualquer pessoa - e de modo colaborativo, permitindo que você trabalhe em equipe com outros pesquisadores ou lideranças interessadas - o programa SocioAtlas foi inserido dentro de uma planilha do tipo Google Sheets. Deste modo, usufruímos da plataforma gratuita do Google, já projetada para utilização on-line com todos os requisitos de segurança necessários.&lt;/p&gt;
+&lt;p&gt;Para utilizar o SocioAtlas você precisará de:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Conta no GMail&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Acesso ao Google Drive&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Acesso ao Google Docs&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; e Google Sheets&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ao obter uma cópia do SocioAtlas, você receberá uma planilha do Google Sheets totalmente formatada ser utilizada segundo os padrões da metodologia. Cuidado para não realizar alterações indevidas, que podem ocasionar erros de processamento. Todavia, caso algo ocorra de modo indesejado você pode começar novamente obtendo uma nova cópia, &amp;ldquo;limpa&amp;rdquo;, do SocioAtlas.&lt;/p&gt;
+
+
+&lt;div class=&#34;alert alert-warning&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Importante&lt;/h4&gt;
+
+    OBS: Os dados lançados na planilha, exceto o programa SocioAtlas nela inserido, pertencem exclusivamente aos usuários, os desenvolvedores e/ou mantenedores do SocioAtlas não se responsabilizam por perdas de dados ou erros de processamento.
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;O SocioAtlas é distribuído sob a licença de tipo GPL-3.0, que resumidamente lhe permite:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uso comercial.&lt;/li&gt;
+&lt;li&gt;Realização de modificações.&lt;/li&gt;
+&lt;li&gt;Distribuição.&lt;/li&gt;
+&lt;li&gt;Uso particular.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Em contrapartida, você deverá:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explicitar as modificações que você realizou no programa original.&lt;/li&gt;
+&lt;li&gt;Distribuir o programa que você modificou utilizando o mesmo tipo de licença, ou seja o GPL-3.0.&lt;/li&gt;
+&lt;li&gt;Você deverá disponibilizar ao seus usuários uma cópia integral da licença GPL-3.0.&lt;/li&gt;
+&lt;li&gt;Manter os programas do SocioAtlas (seus códigos fonte) disponíveis para os seus usuários.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Limitações da licença GPL-3.0:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;O programa SocioAtlas é fornecido com isenção de responsabilidade.&lt;/li&gt;
+&lt;li&gt;Igualmente, o programa é distribuído sem nenhum tipo de garantia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Você pode acessar uma versão da licença GPL-3.0, traduzida para o português, neste &lt;a href=&#34;http://licencas.softwarelivre.org/gpl-3.0.pt-br.html&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;div class=&#34;alert alert-warning&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Importante&lt;/h4&gt;
+
+    De tempos em tempos serão lançadas novas versões, contendo aprimoramentos. Para saber qual é a sua versão escolha a opção &amp;lsquo;Versão Atual&amp;rsquo; no menu &amp;lsquo;SocioAtlas&amp;rsquo;, que fica ao lado da opção &amp;lsquo;Ajuda&amp;rsquo; do programa Google Sheets.
+
+&lt;/div&gt;
+
+&lt;h1 id=&#34;instalação&#34;&gt;&amp;ldquo;Instalação&amp;rdquo;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Escolher um líder para o diagnostico, caso você esteja trabalhando em equipe.&lt;/li&gt;
+&lt;li&gt;O líder precisa baixar uma cópia do SocioAtlas para o seu Google Drive.&lt;/li&gt;
+&lt;li&gt;Líder compartilha o acesso ao SocioAtlas (sua cópia) com os membros de sua equipe, assim os dados ficam centralizados na planilha do líder.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Este é o link para você baixar uma cópia do SocioAtlas:&lt;/p&gt;
+&lt;p&gt;Se preferir, acesse com este QRCode através do seu celular. Deste modo, uma cópia do SocioAtlas será armazenada no seu Google Drive.&lt;/p&gt;
+&lt;h1 id=&#34;como-utilizar&#34;&gt;Como utilizar?&lt;/h1&gt;
+&lt;h2 id=&#34;fontes&#34;&gt;Fontes&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/fontes.png&#34; alt=&#34;fontes&#34;&gt;&lt;/p&gt;
+&lt;p&gt;O primeiro passo na utilização do SocioAtlas é a inserção de fontes de dados. Há diversos tipos de fontes, como textos, entrevistas, vídeos, dados estatísticos, enfim fontes diversas que contém informação a ser analisada.&lt;/p&gt;
+&lt;p&gt;Para que o SocioAtlas reconheça os dados, você precisará inseri-los por meio de documentos em formato Google Docs. Neste caso, será necessário criar documentos de texto através do Google Docs (GDocs) com o conteúdo desejado.&lt;/p&gt;
+&lt;h3 id=&#34;tipos-de-conteúdo&#34;&gt;Tipos de conteúdo&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Entrevistas em áudio&lt;/strong&gt;: você deverá criar um &lt;strong&gt;GDocs&lt;/strong&gt; com a transcrição do áudio. Você poderá transcrever o conteúdo na íntegra ou apenas as partes necessárias.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Páginas da WEB (HTML)&lt;/strong&gt;: Instale o add-on &lt;a href=&#34;https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi&#34;&gt;Mercury Reader&lt;/a&gt; &lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; em seu Google Chrome Browser . Ele permite que você leia páginas da web sem propagandas ou informação desnecessária, com ele você terá uma página apenas com texto. Após aplicá-lo na página web desejada, copie e cole o conteúdo em um GDocs. Ah, não esqueça do colar o endereço da página da WEB no documento, você precisará dele para criar uma referência bibliográfica.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dados estatísticos&lt;/strong&gt;: Comumente você encontrará dados estatísticos representados em forma de gráficos ou tabelas. Neste caso, você deverá colar os gráficos ou tabelas em um GDoc e descrever em forma de texto a interpretação dos dados.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vídeos&lt;/strong&gt;: Assim como as entrevistas em áudio, vídeos devem ser transformados em transcrições, posteriormente armazenadas em formato GDocs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Imagens&lt;/strong&gt;: Como diz o velho ditado, uma imagem vale por mil palavras. Neste caso, você precisará descrever a imagem por meio de descrição textual.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Outros formatos&lt;/strong&gt;: Assim como os demais formatos, você precisará transformar os dados em texto e armazená-los em documentos no formato GDocs.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;div class=&#34;alert alert-warning&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Importante&lt;/h4&gt;
+
+    Para cada fonte, utilize um único arquivo GDocs distinto. Assim você garante que a referência bibliográfica estará disponível para cada documento.
+Caso você precise de mais informação para tratar os seus dados de forma cientificamente adequada, &lt;a href=&#34;https://www.amazon.com.br/Pesquisa-qualitativa-com-texto-imagem/dp/8532627277&#34;&gt;veja este livro&lt;/a&gt;.
+
+&lt;/div&gt;
+
+&lt;h4 id=&#34;inserindo-fontes-no-socioatlas&#34;&gt;Inserindo fontes no SocioAtlas&lt;/h4&gt;
+&lt;p&gt;Vá até a aba &amp;lsquo;Fontes&amp;rsquo; da planilha, e insira o endereço da web do seus arquivos GDocs (formato URL). Na coluna logo em frente ao endereço do documento, insira o texto com a referência bibliográfica do documento.&lt;/p&gt;
+&lt;p&gt;OBS. Também é possível informar o endereço de uma pasta do Google Drive. Neste caso o SocioAtlas fará a leitura de todos os documentos (GDocs) automaticamente - o único detalhe é que com isso você não terá a referência bibliográfica de cada arquivo.&lt;/p&gt;
+&lt;h2 id=&#34;itemização-e-identificação-de-fatores&#34;&gt;Itemização e identificação de fatores&lt;/h2&gt;
+&lt;p&gt;Para criar itens, que nada mais são que partes relevantes do texto, basta selecionar o trecho de texto desejado e inserir um comentário. Dentro do comentário, escreva um resumo da ideia presente no item (de modo que possa ser lida e compreendida rapidamente). Ainda no comentário, informa os fatores colocando os seus nomes entre colchetes. Por exemplo: [emprego], [xenofobia].&lt;/p&gt;
+&lt;h2 id=&#34;inclusão-dos-itens-na-planilha-socioatlas&#34;&gt;Inclusão dos itens na planilha SocioAtlas&lt;/h2&gt;
+&lt;p&gt;Depois que você destacar todos os itens pertinentes, juntamente com a identificação dos fatores nos campos de comentário, o SocioAtlas pode ler todos os dados e incluí-los para você automaticamente na planilha. Para tanto, basta escolher a opção &lt;em&gt;&amp;lsquo;Importar Fontes&amp;rsquo;&lt;/em&gt; no menu &lt;em&gt;&amp;lsquo;SocioAtlas&amp;rsquo;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Todos os dados obtidos serão gravados na aba &lt;em&gt;&amp;lsquo;Dados&amp;rsquo;&lt;/em&gt; da planilha.&lt;/p&gt;
+&lt;p&gt;Importante: Não altere manualmente nenhuma informação gravada na aba &amp;lsquo;Dados&amp;rsquo;, ela contém fórmulas que garantem o tratamento correto dos dados pelo programa e caso algo seja alterado poderão ocorrer erros ou perda de dados.&lt;/p&gt;
+&lt;h2 id=&#34;qualificação-modal-de-fatores&#34;&gt;Qualificação modal de fatores&lt;/h2&gt;
+&lt;p&gt;Após a leitura dos dados, você encontrará um resumo dos fatores encontrados na aba &lt;em&gt;&amp;lsquo;Fatores&amp;rsquo;&lt;/em&gt;, aqui você poderá renomear os fatores que desejar de modo a agrupar fatores semelhantes, ou até mesmo criar nomenclaturas mais adequadas. Na coluna &lt;em&gt;&amp;lsquo;Aspectos&amp;rsquo;&lt;/em&gt;, informe o aspecto modal que melhor qualifica cada fator.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dica:&lt;/strong&gt; Na aba &lt;em&gt;&amp;lsquo;Aspectos&amp;rsquo;&lt;/em&gt; você encontrará informação sobre cada modalidade para ajudá-lo no processo de identificação.&lt;/p&gt;
+&lt;h2 id=&#34;matriz-multimodal&#34;&gt;Matriz multimodal&lt;/h2&gt;
+&lt;p&gt;As informações da aba matriz são geradas automaticamente, para tanto basta selecionar a opção &lt;em&gt;&amp;lsquo;Gerar Matriz Multimodal&amp;rsquo;&lt;/em&gt; no menu &lt;em&gt;&amp;lsquo;SocioAtlas&amp;rsquo;&lt;/em&gt;. O programa identificará para você todos os fatores que possuem alguma inter-relação e preencherá esta aba da planilha com todas as distintas inter-relações possíveis.&lt;/p&gt;
+&lt;p&gt;Os dados desta aba também podem ser representados graficamente. Basta escolher a opção &lt;em&gt;&amp;lsquo;Gráfico Multimodal&amp;rsquo;&lt;/em&gt; no menu &lt;em&gt;&amp;lsquo;SocioAtlas&amp;rsquo;&lt;/em&gt;. Uma nova janela será aberta em seu browser e o gráfico será apresentado.&lt;/p&gt;
+&lt;h2 id=&#34;identificação-de-sistemas-sociais&#34;&gt;Identificação de sistemas sociais&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Em breve&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;georeferenciamento-de-sistemas-sociais&#34;&gt;Georeferenciamento de sistemas sociais&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Em breve&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;notas&#34;&gt;Notas&lt;/h3&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Como criar uma conta no GMail: &lt;a href=&#34;https://www.youtube.com/watch?v=4tdWneb9rks&#34;&gt;https://www.youtube.com/watch?v=4tdWneb9rks&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Curso básico de Google Drive no YouTube: &lt;a href=&#34;https://www.youtube.com/watch?v=M1UQOTH5sZE&#34;&gt;https://www.youtube.com/watch?v=M1UQOTH5sZE&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Curso básico de Google Docs no YouTube: &lt;a href=&#34;https://www.youtube.com/watch?v=8Z7DmckmKxo&#34;&gt;https://www.youtube.com/watch?v=8Z7DmckmKxo&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Curso básico de Google Sheets no YouTube:&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Há também outros add-ons interessantes como o Fika (&lt;a href=&#34;https://www.fika.io/),&#34;&gt;https://www.fika.io/),&lt;/a&gt; Purify (&lt;a href=&#34;https://chrome.google.com/webstore/detail/purify/kjiappjpfpaekdfeioanaphpihpojemc),&#34;&gt;https://chrome.google.com/webstore/detail/purify/kjiappjpfpaekdfeioanaphpihpojemc),&lt;/a&gt; MercuryReader (&lt;a href=&#34;https://mercury.postlight.com/reader/)&#34;&gt;https://mercury.postlight.com/reader/)&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: Coleta de dados</title>
       <link>/docs/tutorial/metodo/coleta-de-dados/</link>
       <pubDate>Sun, 17 Oct 2021 22:29:35 +0000</pubDate>
