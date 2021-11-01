@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SocioAtlas – Contents</title>
+    <link>/en/content/</link>
+    <description>Recent content in Contents on SocioAtlas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 31 Oct 2021 21:40:43 -0300</lastBuildDate>
+    
+	  <atom:link href="/en/content/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Content: Contribuir</title>
+      <link>/en/content/pt-br/docs/tutorial/metodo/contribuir/</link>
+      <pubDate>Sun, 31 Oct 2021 21:40:43 -0300</pubDate>
+      
+      <guid>/en/content/pt-br/docs/tutorial/metodo/contribuir/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
