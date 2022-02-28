@@ -47,10 +47,10 @@
 &lt;/div&gt;
 &lt;p&gt;مشخصات زیر که در اطلاعات پست آمده است روی تمامی تصاویر این پست اعمال می‌شوند:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;resources:
-- src: &amp;quot;**.{png,jpg}&amp;quot;
-  title: &amp;quot;Image #:counter&amp;quot;
+- src: &amp;#34;**.{png,jpg}&amp;#34;
+  title: &amp;#34;Image #:counter&amp;#34;
   params:
-    byline: &amp;quot;Photo: Riona MacNamara / CC-BY-CA&amp;quot;
+    byline: &amp;#34;Photo: Riona MacNamara / CC-BY-CA&amp;#34;
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;برای افزودن تصویر در یک صفحه، مشخصات آن را به صورت زیر مشخص کنید:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
 
