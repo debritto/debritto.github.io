@@ -9,7 +9,7 @@
     <lastmod>2022-02-28T16:41:51-03:00</lastmod>
   </url><url>
     <loc>/docs/tutorial/guia-rapido/</loc>
-    <lastmod>2021-10-31T22:16:34-03:00</lastmod>
+    <lastmod>2022-05-18T15:44:19-03:00</lastmod>
   </url><url>
     <loc>/docs/fundamentos/</loc>
     <lastmod>2021-09-22T01:21:17-03:00</lastmod>
@@ -57,32 +57,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/docs/"
-                />
-  </url><url>
-    <loc>/blog/news/</loc>
-    <lastmod>2021-09-22T01:21:17-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/blog/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/blog/news/"
-                />
-  </url><url>
-    <loc>/blog/releases/</loc>
-    <lastmod>2021-09-22T01:21:17-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/blog/releases/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/blog/releases/"
                 />
   </url><url>
     <loc>/docs/termos/</loc>
@@ -135,38 +109,6 @@
   </url><url>
     <loc>/docs/autores/herman-dooyeweerd/</loc>
     <lastmod>2021-09-30T15:51:25-03:00</lastmod>
-  </url><url>
-    <loc>/blog/06/10/2018/easy-documentation-with-docsy/</loc>
-    <lastmod>2021-09-22T01:21:17-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/blog/06/10/2018/%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D8%AA-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B3%DB%8C/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/blog/06/10/2018/easy-documentation-with-docsy/"
-                />
-  </url><url>
-    <loc>/blog/06/10/2018/the-second-blog-post/</loc>
-    <lastmod>2021-09-22T01:21:17-03:00</lastmod>
-  </url><url>
-    <loc>/blog/04/01/2018/another-great-release/</loc>
-    <lastmod>2021-09-22T01:21:17-03:00</lastmod>
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2021-09-22T01:21:17-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="/blog/"
-                />
   </url><url>
     <loc>/comunidade/</loc>
     <lastmod>2021-09-22T01:21:17-03:00</lastmod>

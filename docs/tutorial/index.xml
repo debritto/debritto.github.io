@@ -23,14 +23,14 @@
       <description>
         
         
-        &lt;p&gt;O SocioAtlas é um programa de computador que viabiliza análises de dados de acordo com o Método Sistêmico Multimodal. Para que possa ser utilizado por qualquer pessoa - e de modo colaborativo, permitindo que você trabalhe em equipe com outros pesquisadores ou lideranças interessadas - o programa SocioAtlas foi inserido dentro de uma planilha do tipo Google Sheets. Deste modo, usufruímos da plataforma gratuita do Google, já projetada para utilização on-line com todos os requisitos de segurança necessários.&lt;/p&gt;
+        &lt;p&gt;O SocioAtlas é um software que cria um &lt;strong&gt;banco de de conhecimento com ideias conectadas entre si&lt;/strong&gt;, &lt;em&gt;um segundo cérebro&lt;/em&gt;. Neste sentido, ele viabiliza um ambiente pensamento, organizando os dados de acordo com o &lt;strong&gt;Método Sistêmico Multimodal&lt;/strong&gt;. Para que possa ser utilizado por qualquer pessoa - e de modo colaborativo, permitindo que você trabalhe em equipe com outros pesquisadores ou lideranças interessadas - o SocioAtlas foi criado para ser instalado em uma planilha comum do Google Sheets. Assim, usufruímos da plataforma gratuita do Google, já projetada para utilização on-line com todos os requisitos de segurança necessários.&lt;/p&gt;
 &lt;p&gt;Para utilizar o SocioAtlas você precisará de:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Conta no GMail&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Uma conta no GMail&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
 &lt;li&gt;Acesso ao Google Drive&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
 &lt;li&gt;Acesso ao Google Docs&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; e Google Sheets&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Ao obter uma cópia do SocioAtlas, você receberá uma planilha do Google Sheets totalmente formatada ser utilizada segundo os padrões da metodologia. Cuidado para não realizar alterações indevidas, que podem ocasionar erros de processamento. Todavia, caso algo ocorra de modo indesejado você pode começar novamente obtendo uma nova cópia, &amp;ldquo;limpa&amp;rdquo;, do SocioAtlas.&lt;/p&gt;
+&lt;p&gt;Após instalar uma cópia do SocioAtlas, sua planilha do Google Sheets será totalmente formatada para ser utilizada como um banco de conhecimento sistêmico. Antes de começar a utilizá-lo, leia antentamnte este Guia Rápido, cuidando para não realizar alterações indevidas que possam ocasionar erros de processamento. Todavia, caso algo ocorra de modo indesejado, basta começar novamente instalando uma nova cópia do SocioAtlas em uma planilha em branco.&lt;/p&gt;
 
 
 &lt;div class=&#34;alert alert-warning&#34; role=&#34;alert&#34;&gt;
@@ -70,17 +70,24 @@
 
 &lt;/div&gt;
 
-&lt;h1 id=&#34;instalação&#34;&gt;Instalação&lt;/h1&gt;
+&lt;h1 id=&#34;instalação-diretamente-dentro-do-google-sheets-recomendado&#34;&gt;Instalação diretamente dentro do Google Sheets (recomendado)&lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;Escolha um líder para o diagnostico, caso você esteja trabalhando em equipe.&lt;/li&gt;
-&lt;li&gt;O líder precisa baixar uma cópia do SocioAtlas para o seu Google Drive.&lt;/li&gt;
-&lt;li&gt;Líder compartilha o acesso ao SocioAtlas (sua cópia) com os membros de sua equipe, assim os dados ficam centralizados na planilha do líder.&lt;/li&gt;
+&lt;li&gt;Crie uma planilha através do Google Sheets.&lt;/li&gt;
+&lt;li&gt;Vá até a opção &lt;strong&gt;Extensões-&amp;gt;Complelentos&lt;/strong&gt; e escolha a opção &lt;strong&gt;Instalar Complementos&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;O Google abrirá uma janela com vários complementos disponívieis.&lt;/li&gt;
+&lt;li&gt;Escolha a Na parte superior da janela, há um campo para pesquisa escrito &lt;strong&gt;Pesquisar apps&lt;/strong&gt;, digite &lt;em&gt;SocioAtlas&lt;/em&gt; neste campo e pressione &lt;em&gt;Enter&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Você verá um &lt;em&gt;card&lt;/em&gt; com o nome SocioAtlas, clique nele e pressione o &lt;strong&gt;Botão Instalar&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Responda atentamente todas as solicitações de autorização do Google.&lt;/li&gt;
+&lt;li&gt;PRONTO! O SocioAtlas irá aparecer como uma opção no menu &lt;strong&gt;Extensões&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;No menu SocioAtlas, escolha a opção &lt;strong&gt;Start!&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;OK. Diversas guias serão criadas na sua planilha.&lt;/li&gt;
+&lt;li&gt;Leia as noções básicas logo abaixo.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Este é o &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1JHKCfwIdVw0ymode4hqhY8e1YhxkTj_5lAPHcwuep-Y/copy&#34;&gt;link&lt;/a&gt; para você baixar uma cópia do SocioAtlas.&lt;/p&gt;
-&lt;p&gt;Se preferir, acesse com este QRCode através do seu celular:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/qrcode_socioatlas.png&#34; alt=&#34;QRCode&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Após a confirmação, uma cópia do SocioAtlas será armazenada no seu Google Drive.&lt;/p&gt;
-&lt;h1 id=&#34;como-utilizar&#34;&gt;Como utilizar?&lt;/h1&gt;
+&lt;h1 id=&#34;instalação-pelo-google-workspace-marketplace&#34;&gt;Instalação pelo Google Workspace Marketplace&lt;/h1&gt;
+&lt;p&gt;Você também pode instalar o SocioAtlas a partir do Google Workspace Marketplace, este é o &lt;a href=&#34;https://workspace.google.com/marketplace/app/socioatlas/113414702386&#34;&gt;link&lt;/a&gt;. Se preferir, acesse com este QRCode através do seu celular:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/SocioAtlas_QRcode.png&#34; alt=&#34;QRCode&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Após a confirmação de instalação, crie uma planilha do Google Sheets e procure pelo SocioAtlas no menu &lt;strong&gt;Extensões&lt;/strong&gt; e rode a opção &lt;strong&gt;Start!&lt;/strong&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;como-utilizar-noções-básicas&#34;&gt;Como utilizar (noções básicas)?&lt;/h1&gt;
 &lt;h2 id=&#34;fontes&#34;&gt;Fontes&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;/fontes.png&#34; alt=&#34;fontes&#34;&gt;&lt;/p&gt;
 &lt;p&gt;O primeiro passo na utilização do SocioAtlas é a inserção de fontes de dados. Há diversos tipos de fontes, como textos, entrevistas, vídeos, dados estatísticos, enfim fontes diversas que contém informação a ser analisada.&lt;/p&gt;
@@ -140,26 +147,26 @@ Caso você precise de mais informação para tratar os seus dados de forma cient
 &lt;h2 id=&#34;georeferenciamento-de-sistemas-sociais&#34;&gt;Georeferenciamento de sistemas sociais&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Em breve&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&#34;notas&#34;&gt;Notas&lt;/h3&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;Como criar uma conta no GMail: &lt;a href=&#34;https://www.youtube.com/watch?v=4tdWneb9rks&#34;&gt;https://www.youtube.com/watch?v=4tdWneb9rks&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;Curso básico de Google Drive no YouTube: &lt;a href=&#34;https://www.youtube.com/watch?v=M1UQOTH5sZE&#34;&gt;https://www.youtube.com/watch?v=M1UQOTH5sZE&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
 &lt;p&gt;Curso básico de Google Docs no YouTube: &lt;a href=&#34;https://www.youtube.com/watch?v=8Z7DmckmKxo&#34;&gt;https://www.youtube.com/watch?v=8Z7DmckmKxo&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
 &lt;p&gt;Curso básico de Google Sheets no YouTube:&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
 &lt;p&gt;Há também outros add-ons interessantes como o Fika (&lt;a href=&#34;https://www.fika.io/)&#34;&gt;https://www.fika.io/)&lt;/a&gt;, Purify (&lt;a href=&#34;https://chrome.google.com/webstore/detail/purify/kjiappjpfpaekdfeioanaphpihpojemc)&#34;&gt;https://chrome.google.com/webstore/detail/purify/kjiappjpfpaekdfeioanaphpihpojemc)&lt;/a&gt;, MercuryReader (&lt;a href=&#34;https://mercury.postlight.com/reader/)&#34;&gt;https://mercury.postlight.com/reader/)&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 
       </description>
     </item>
@@ -410,23 +417,23 @@ Caso você precise de mais informação para tratar os seus dados de forma cient
 &lt;p&gt;WOUDENBERG, René van. Inleiding Tot Een Christelijke Filosofie. In: GELOVEND Denken. Kampen: Kok, 1992. p. 66–123. Disponível em: &amp;lt;https://www.studocu.com/en/document/vrije-universiteit-amsterdam/filosofie-van-de economie/other/woudenberg-modes-of-being/651150/download/wouden berg-modes-of-being.pdf&amp;gt;. Acesso em: 25 jun. 2018.&lt;/p&gt;
 &lt;p&gt;ZADEH, L.A. Fuzzy Sets. Information and Control, v.8, n.3, p.338–353, 1965. Disponível em: &amp;lt;http://linkinghub.elsevier.com/retrieve/pii/S001999586590241X&amp;gt;. Acesso em: 12 mai. 2017.&lt;/p&gt;
 &lt;h3 id=&#34;notas&#34;&gt;Notas&lt;/h3&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;Com diferentes especificidades, este método de codificação é muito semelhante, por exemplo, ao utilizado pela Teoria Fundamentada (BAUER e GASKELL, 2008, p.397; FLICK, 2004, p.188–207). De modo geral, este procedimento é muito utilizado por pesquisadores que utilizam softwares de apoio à análise qualitativa – CAQDAS – como meio de organização e administração dos dados de pesquisa (FLICK, 2004, p.260–270).&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;Segundo Saldaña (2009), o processo de codificação é diretamente influenciado pela perspectiva analítica de cada pesquisador; neste caso, um mesmo conjunto de dados pode ser codificado de diversas maneiras diferentes (Saldaña, 2009, p.7–8). Essas possíveis diferenças, entretanto, não serão tratadas no momento.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
 &lt;p&gt;Vale notar que mesmo nas chamadas ciências duras encontramos quebras, mudanças e superação de paradigmas. Da mesma forma, torna-se muito importante para a comunicação científica como um todo a explicitação de todos os elementos e caminhos que partem da observação e, de algum modo, chegam à conclusões.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
 &lt;p&gt;Segundo De Raadt, o termo sustentabilidade pode ser utilizado como sinônimo de viabilidade, termo comumente utilizado em teorias sistêmicas (De Raadt, 2002, p.65). Não pretendemos tratar aqui das possíveis implicações decorrentes dos diferentes usos destes.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 
       </description>
     </item>
